@@ -1,5 +1,5 @@
-#Project Under Devlopment.Feel Free to Contribute
-Deployed here : [Click here](https://bank-managment.herokuapp.com/).
+# Project Under Devlopment.Feel Free to Contribute
+## Deployed here : [Click here](https://bank-managment.herokuapp.com/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
